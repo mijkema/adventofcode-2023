@@ -4,6 +4,7 @@ from itertools import *
 from numpy import product, array
 import re
 import sys
+import math
 from timeit import default_timer as timer
 
 
